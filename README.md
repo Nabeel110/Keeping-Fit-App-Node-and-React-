@@ -1,3 +1,14 @@
+## Keeping Fit React(Front End) and Node(Back End) App.
+The is a basic learning project I did to learn implementation of Node and react simultaneously.
+It makes use of basic crud operations to database. I have used MongoDB Database in this project.
+
+## About App
+1. It allows to create new Users
+2. Created Users can create schedule for their exercises
+3. They can edit and delete their exercise from home page.
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
